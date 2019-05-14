@@ -3,6 +3,8 @@ Cloud-Init
 
 Cloud-Init YAML files for use with Nutanix events, blog articles & posts.
 
+Please feel free to use these for your own environments if you find them useful.
+
 20190513_centos7toolsvm.yaml
 ............................
 
