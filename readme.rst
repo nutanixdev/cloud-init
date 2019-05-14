@@ -41,3 +41,12 @@ Configures:
 - Configures **ntp** via **ntpdate** (Cloud-Init **ntp** module is not used here).
 - Updates and upgrades all packages
 - Sets the VM hostname to **centos7-tools-vm**
+
+Support
+-------
+
+These cloud-init YAML files are *unofficial* and are not supported or actively maintained by Nutanix in any way.
+
+In addition, please also be advised that these YAML files may deploy packages or configure options that do not follow best practices.  Please check through each YAML file to ensure the configuration suits your requirements.
+
+**Changes will be required before these YAML files can be used in production environments.**
