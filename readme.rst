@@ -29,6 +29,7 @@ Packages:
 - unzip
 - make
 - gcc-c++
+- jq
 
 Configures:
 

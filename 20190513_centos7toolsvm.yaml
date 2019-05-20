@@ -37,6 +37,7 @@ packages:
   - nodejs
   - python36
   - python36-setuptools
+  - jq
 
 runcmd:
   - npm install -g request express
